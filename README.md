@@ -11,10 +11,8 @@
 
 <h2>🛠️ Frameworks</h2>
 <p>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="flutter" width="42" height="42" /></a> 
   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="django" width="42" height="42" /></a>
-
 </p>
 
 <h2>🛠️ Databases</h2>
